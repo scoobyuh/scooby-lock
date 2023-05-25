@@ -1,7 +1,3 @@
-git remote add origin https://github.com/scoobyuh/scooby-lock.git
-git branch -M main
-git push -u origin main
-
 -- @scoobyv2 / scooby#1234
 local configs = {
     main = {
